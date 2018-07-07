@@ -1,5 +1,5 @@
 # WpfTreeViewBugSample001
-【WPF】TreeViewの挙動がおかしい。
+【WPF】TreeViewの上矢印キーでの項目移動の挙動がおかしい。 
 
 C#を使用しWPFアプリケーションを作成しています。今回、TreeViewで挙動がおかしな事がありましたので、メモしておきます。
 
