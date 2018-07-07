@@ -11,7 +11,7 @@ C#を使用しWPFアプリケーションを作成しています。今回、Tre
 ![FontSize=12.0](https://i.imgur.com/Thl7Mks.jpg "FontSize=12.0")
 
 
-しかし、以下のように XAML で FontSize="21.0" と大きめの値にすると、下矢印キーで最終項目まで移動できますが、上矢印キーは途中で止まってしまいます。
+しかし、以下のように XAML で FontSize="20.0" と大きめの値にすると、下矢印キーで最終項目まで移動できますが、上矢印キーは途中で止まってしまいます。
 
 ![FontSize=20.0](https://i.imgur.com/HBmV230.jpg "FontSize=20.0")
 
